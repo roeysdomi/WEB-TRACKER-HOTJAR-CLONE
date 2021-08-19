@@ -1,0 +1,15 @@
+.contable
+{
+  /* border:2px solid black; */
+  margin:auto;
+  width:800px;
+  margin-top:50px;
+}
+.table
+{
+  border:2px solid #26a69a;
+  border-radius: 8px;
+  margin:auto;
+  display: flex;
+  flex-direction: column;
+}
